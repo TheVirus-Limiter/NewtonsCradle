@@ -47,9 +47,9 @@ function draw() {
   sling3.display();
   sling4.display();
   sling5.display();
-  if(author === "rehan"){
-throw new TypeError("Hello! Welcome to Newton's cradle by Rehan! This isnt actually an error, so you can dismiss it, but this is how to use the newtons cradle: Drag your mouse to the top left corner, and let it go. Bam! Its working! To make it work again, do the same thing! Thanks! 🚀")    
-  }
+ // if(author === "rehan"){
+//throw new TypeError("Hello! Welcome to Newton's cradle by Rehan! This isnt actually an error, so you can dismiss it, but this is how to use the newtons cradle: Drag your mouse to the top left corner, and let it go. Bam! Its working! To make it work again, do the same thing! Thanks! 🚀")    
+  //}
   mouseDragged();
 }
 
