@@ -4,7 +4,6 @@
 
 **Instructions**
 
-To run the project, open the github pages, and (Chrome Only), click Control + Shift + J for the instructions
-
+To run the project, clone it locally, and run it, and (Chrome Only), click Control + Shift + J for the instructions
 
 
